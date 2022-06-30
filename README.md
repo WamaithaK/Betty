@@ -1,1 +1,1 @@
-# Betty
+C programming lessons
